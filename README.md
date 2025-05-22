@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/103107154?v=4" width="120" alt="hossein farzalivand" />
+  <img src="https://github.com/farzalivand/farzalivand/blob/main/profile_circular_shadow.png" width="160" height="160" alt="Hossein Farzalivand" />
 </p>
 
 <h2 align="center">حسین فرضعلی‌وند</h2>
